@@ -1,7 +1,7 @@
 development:
-  password: your_private_app_password
-  theme_id: your_theme_id
-  store: your-store.myshopify.com
+  password: shptka_89cf8d7be72fd76bb702f6881e6b5c1c
+  theme_id: 167633682718
+  store: first-devs-store.myshopify.com
   ignore_files:
     - config/settings_data.json
 
